@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp54.Methods;
 
-internal class OrderItem
+public class OrderItem
 {
     public int ProductId { get; set; }
     public string ProductName { get; set; } = null!;
